@@ -1,0 +1,37 @@
+.body{
+    background-color: black;
+    color: rgb(15, 12, 58);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 200vh;
+}
+.container-block{
+    background-color: rgb(255, 179, 0);
+    width: 500px;
+    padding: 15px;
+}
+.main-heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list{
+    background-color: bisque;
+}
+.lecture-number{
+    /* margin-left: 50px; */
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 15px;
+}
+.sort-button{
+    color: rgb(255, 254, 254);
+    background-color: rgb(15, 8, 52);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-left: 45%;
+    width: 80px;
+}
